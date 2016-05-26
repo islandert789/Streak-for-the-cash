@@ -12,7 +12,6 @@ This is a histogram of 1000 tests:
 import urllib2
 
 daypmonth=[None,31,28,31,30,31,30,31,31,30,31,30,31]
-
 year=2008
 month=8
 day=25
